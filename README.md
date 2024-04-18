@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas Menne</h1>
 <h3 align="center">A trainee software dveloper</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas-menne" alt="lukas-menne" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
